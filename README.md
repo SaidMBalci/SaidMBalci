@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Willkommen auf meinem GitHub-Profil
 
-<!--
-**SaidMBalci/SaidMBalci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mein Name ist Said Muhammed Balci und ich bereite mich derzeit auf eine Ausbildung als Fachinformatiker für Systemintegration vor.
 
-Here are some ideas to get you started:
+🚀 Aktuell beschäftige ich mich intensiv mit:
+- Linux-Administration und Netzwerken
+- Cloud-Computing (AWS, Azure)
+- Automatisierung und CI/CD-Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projekte, an denen ich arbeite:
+- Bash-Skripting für Netzwerk-Überwachung
+- Aufbau virtueller Netzwerkumgebungen mit VirtualBox
+- Monitoring-Lösungen mit Docker, Prometheus und Grafana
+
+🛠️ Mein Ziel:
+Praxisnah lernen, Systeme aufbauen, Probleme lösen – und Schritt für Schritt wachsen.
+
+---
+
+📈 Neue Projekte und Lernfortschritte folgen regelmäßig!
