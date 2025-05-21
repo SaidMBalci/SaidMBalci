@@ -14,6 +14,10 @@ Mein Name ist Said Muhammed Balci und ich bereite mich derzeit auf eine Ausbildu
 
 🛠️ Mein Ziel:
 Praxisnah lernen, Systeme aufbauen, Probleme lösen – und Schritt für Schritt wachsen.
+## 📜 Zertifikate
+
+- ✅ Cisco Networking Basics – Cisco Networking Academy (Mai 2025)
+- 📘 (https://www.credly.com/badges/04ba3a39-38d2-4646-9196-3eeb899652d5/public_url)
 
 ---
 
