@@ -18,7 +18,8 @@ Praxisnah lernen, Systeme aufbauen, Probleme lösen – und Schritt für Schritt
 
 - ✅ Cisco Networking Basics – Cisco Networking Academy (Mai 2025)
 - 📘 (https://www.credly.com/badges/04ba3a39-38d2-4646-9196-3eeb899652d5/public_url)
-
+- ✅ Linux Unhatched – Cisco Networking Academy (Mai 2025)
+- 📘 (https://www.credly.com/badges/48b27b3f-7b0d-41a2-8f25-576d61c5d44c/public_url)
 ---
 
 📈 Neue Projekte und Lernfortschritte folgen regelmäßig!
